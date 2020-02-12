@@ -1,0 +1,11 @@
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\bin\Debug\Pomodoro - yoyal.dev.exe.config
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\bin\Debug\Pomodoro - yoyal.dev.exe
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\bin\Debug\Pomodoro - yoyal.dev.pdb
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro___yoyal.dev.Form1.resources
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro___yoyal.dev.Form2.resources
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro___yoyal.dev.Form3.resources
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro___yoyal.dev.Properties.Resources.resources
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro - yoyaldev.csproj.GenerateResource.cache
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro - yoyal.dev.exe
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro - yoyal.dev.pdb
+C:\Users\yoyal\source\repos\Pomodoro - yoyal.dev\Pomodoro - yoyal.dev\obj\Debug\Pomodoro - yoyaldev.csprojAssemblyReference.cache
